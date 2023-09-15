@@ -24,17 +24,17 @@ class _IsiLinkTreeState extends State<IsiLinkTree> {
           icon: Icons.email,
         ),
         CardForlinkTree(
-          text: 'Instagram',
-          icon: FontAwesomeIcons.instagram,
+          text: 'Twitter',
+          icon: FontAwesomeIcons.twitter,
           onPressed: () {
-            DirectToLink.launchURL('https://www.instagram.com/');
+            DirectToLink.launchURL('https://twitter.com/wtsrz4');
           },
         ),
         CardForlinkTree(
-          text: 'Facebook',
-          icon: FontAwesomeIcons.facebook,
+          text: 'Reddit',
+          icon: FontAwesomeIcons.reddit,
           onPressed: () {
-            DirectToLink.launchURL('https://www.facebook.com/');
+            DirectToLink.launchURL('https://reddit.com/u/wtsrz4');
           },
         ),
       ],

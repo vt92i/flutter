@@ -26,7 +26,7 @@ class ShowProfile extends StatelessWidget {
                         crossAxisAlignment: CrossAxisAlignment.start,
                         children: [
                           Text('Fila', style: kTextStyle4),
-                          Text('FLUTTER DEVELOPER', style: kTextStyle5),
+                          Text('210711385', style: kTextStyle5),
                         ],
                       ),
                     ],
