@@ -16,11 +16,11 @@ class _IsiLinkTreeState extends State<IsiLinkTree> {
     return Column(
       children: [
         const CardForlinkTree(
-          text: '+91 123 456 789',
+          text: '+62 821-7782-1792',
           icon: Icons.phone,
         ),
         const CardForlinkTree(
-          text: 'broman@gmail.com',
+          text: 'fe@vt92i.dev',
           icon: Icons.email,
         ),
         CardForlinkTree(

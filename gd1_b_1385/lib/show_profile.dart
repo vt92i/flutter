@@ -67,7 +67,8 @@ class ShowProfile extends StatelessWidget {
             onPressed: () {
               Navigator.pop(context);
             },
-            backgroundColor: Colors.teal,
+            backgroundColor: Colors.white,
+            foregroundColor: Colors.black,
             child: const Icon(Icons.arrow_back),
           )),
     );
