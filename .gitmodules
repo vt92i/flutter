@@ -7,3 +7,6 @@
 [submodule "gd5_b_1385"]
 	path = gd5_b_1385
 	url = https://github.com/vt92i/gd5_b_1385.git
+[submodule "gd6_b_1385"]
+	path = gd6_b_1385
+	url = https://github.com/vt92i/gd6_b_1385.git
