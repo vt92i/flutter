@@ -10,3 +10,6 @@
 [submodule "gd6_b_1385"]
 	path = gd6_b_1385
 	url = https://github.com/vt92i/gd6_b_1385.git
+[submodule "modul_cam_qr_1385"]
+	path = modul_cam_qr_1385
+	url = https://github.com/vt92i/modul_cam_qr_1385.git
