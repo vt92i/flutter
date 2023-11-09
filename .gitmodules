@@ -13,3 +13,6 @@
 [submodule "modul_cam_qr_1385"]
 	path = modul_cam_qr_1385
 	url = https://github.com/vt92i/modul_cam_qr_1385.git
+[submodule "gdlibrary_b_1385"]
+	path = gdlibrary_b_1385
+	url = https://github.com/vt92i/gdlibrary_b_1385.git
