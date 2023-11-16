@@ -16,3 +16,6 @@
 [submodule "gdlibrary_b_1385"]
 	path = gdlibrary_b_1385
 	url = https://github.com/vt92i/gdlibrary_b_1385.git
+[submodule "GD_API_1385"]
+	path = GD_API_1385
+	url = https://github.com/vt92i/GD_API_1385.git
