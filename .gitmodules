@@ -19,3 +19,12 @@
 [submodule "GD_API_1385"]
 	path = GD_API_1385
 	url = https://github.com/vt92i/GD_API_1385.git
+[submodule "gd13_unittesting_1385"]
+	path = gd13_unittesting_1385
+	url = https://github.com/vt92i/gd13_unittesting_1385.git
+[submodule "gd_api_1385"]
+	path = gd_api_1385
+	url = https://github.com/vt92i/gd_api_1385-flutter.git
+[submodule "login_api"]
+	path = login_api
+	url = https://github.com/vt92i/login_api.git
